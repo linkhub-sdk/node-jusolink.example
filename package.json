@@ -1,6 +1,6 @@
 {
   "name": "node-jusolink.example",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JusoLink API SDK Example for node. see www.jusolink.com",
   "author":{
     "name" : "Jeong Yohan",
